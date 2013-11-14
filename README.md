@@ -23,6 +23,25 @@ Uma coleção de adesivos para desenvolvedores.
 | MongoDB    | ✖     | ✔    | `png`                |
 | NodeJS     | ✔     | ✖    | `eps`                |
 | Yeoman     | ✔     | ✖    | `ai`                 |
+| Backbone   | ✖     | ✔    | `png`                |
+| Chrome     | ✖     | ✔    | `png`                |
+| CoffeScript| ✖     | ✔    | `png`                |
+| Compass    | ✖     | ✔    | `png`                |
+| CSS3       | ✔     | ✔    | `svg` `png`          |
+| Express    | ✖     | ✔    | `png`                |
+| Ember      | ✖     | ✔    | `png`                |
+| Firefox    | ✔     | ✔    | `svg` `png`          |
+| Git	       | ✔     | ✔    | `svg` `png`          |
+| Grunt      | ✔     | ✔    | `png` `eps`          |
+| HTML5      | ✔     | ✔    | `svg` `png`          |
+| HTML5CSS3JS| ✔     | ✖    | `svg`                |
+| JavaScript | ✔     | ✔    | `ai`  `png`          |
+| Less       | ✖     | ✔    | `png`                |
+| Modernizr  | ✔     | ✔    | `ai` `eps` `png`     |
+| MongoDB    | ✖     | ✔    | `png`                |
+| NodeJS     | ✔     | ✖    | `eps`                |
+| Python     | ✔     | ✔    | `svg` `png`          |
+| Yeoman     | ✔     | ✔    | `ai` `png`           |
 
 
 ## Links Interessantes

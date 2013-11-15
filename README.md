@@ -14,31 +14,22 @@ Uma coleção de adesivos para desenvolvedores.
 | Tecnologia | Print | View | Formatos Disponíveis |
 |:-----------|:-----:|:----:|:--------------------:|
 | AngularJS  | ✖     | ✔    | `png`                |
-| CSS3       | ✔     | ✖    | `svg`                |
-| Express    | ✖     | ✔    | `png`                |
-| Grunt      | ✔     | ✔    | `png` `eps`          |
-| HTML5      | ✔     | ✖    | `svg`                |
-| JavaScript | ✔     | ✖    | `ai`                 |
-| Modernizr  | ✔     | ✖    | `ai` `eps`           |
-| MongoDB    | ✖     | ✔    | `png`                |
-| NodeJS     | ✔     | ✖    | `eps`                |
-| Yeoman     | ✔     | ✖    | `ai`                 |
-| Backbone   | ✖     | ✔    | `png`                |
-| Chrome     | ✖     | ✔    | `png`                |
-| CoffeScript| ✖     | ✔    | `png`                |
-| Compass    | ✖     | ✔    | `png`                |
 | CSS3       | ✔     | ✔    | `svg` `png`          |
-| Express    | ✖     | ✔    | `png`                |
-| Ember      | ✖     | ✔    | `png`                |
-| Firefox    | ✔     | ✔    | `svg` `png`          |
-| Git	       | ✔     | ✔    | `svg` `png`          |
+| Express    | ✖     | ✔    | `png` `png`          |
 | Grunt      | ✔     | ✔    | `png` `eps`          |
 | HTML5      | ✔     | ✔    | `svg` `png`          |
 | HTML5CSS3JS| ✔     | ✖    | `svg`                |
 | JavaScript | ✔     | ✔    | `ai`  `png`          |
-| Less       | ✖     | ✔    | `png`                |
-| Modernizr  | ✔     | ✔    | `ai` `eps` `png`     |
+| Modernizr  | ✔     | ✔    | `ai`  `eps` `png`    |
 | MongoDB    | ✖     | ✔    | `png`                |
+| Backbone   | ✖     | ✔    | `png`                |
+| Chrome     | ✖     | ✔    | `png`                |
+| CoffeScript| ✖     | ✔    | `png`                |
+| Compass    | ✖     | ✔    | `png`                |
+| Ember      | ✖     | ✔    | `png`                |
+| Firefox    | ✔     | ✔    | `svg` `png`          |
+| Git	       | ✔     | ✔    | `svg` `png`          |
+| Less       | ✖     | ✔    | `png`                |
 | NodeJS     | ✔     | ✖    | `eps`                |
 | Python     | ✔     | ✔    | `svg` `png`          |
 | Yeoman     | ✔     | ✔    | `ai` `png`           |

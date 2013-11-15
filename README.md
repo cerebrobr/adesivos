@@ -30,3 +30,8 @@ Uma coleção de adesivos para desenvolvedores.
 * [GitHub Media](https://github.com/github/media)
 * [GitHub Logos](https://github.com/logos)
 * [Octodex](http://octodex.github.com/)
+
+
+## Contribuir
+
+Deixe sua [sugestão](https://github.com/vitorbritto/dev-stickers/issues/1) ou faça o *fork* deste repositório para realizar um *pull request*.

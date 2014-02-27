@@ -14,25 +14,22 @@ Uma coleção de adesivos para desenvolvedores.
 | Tecnologia | Print | View | Formatos Disponíveis |
 |:-----------|:-----:|:----:|:--------------------:|
 | AngularJS  | ✖     | ✔    | `png`                |
-| CSS3       | ✔     | ✔    | `svg` `png`          |
-| Express    | ✖     | ✔    | `png` `png`          |
-| Grunt      | ✔     | ✔    | `png` `eps`          |
-| HTML5      | ✔     | ✔    | `svg` `png`          |
-| HTML5CSS3JS| ✔     | ✖    | `svg`                |
-| JavaScript | ✔     | ✔    | `ai`  `png`          |
-| Modernizr  | ✔     | ✔    | `ai`  `eps` `png`    |
-| MongoDB    | ✖     | ✔    | `png`                |
 | Backbone   | ✖     | ✔    | `png`                |
+| Bower	     | ✖     | ✔    | `png`                |
 | Chrome     | ✖     | ✔    | `png`                |
-| CoffeScript| ✖     | ✔    | `png`                |
-| Compass    | ✖     | ✔    | `png`                |
+| CSS3       | ✔     | ✔    | `png` `svg`          |
 | Ember      | ✖     | ✔    | `png`                |
-| Firefox    | ✔     | ✔    | `svg` `png`          |
-| Git	       | ✔     | ✔    | `svg` `png`          |
-| Less       | ✖     | ✔    | `png`                |
+| Express    | ✖     | ✔    | `png`                |
+| Firefox    | ✔     | ✔    | `png` `svg`          |
+| Git        | ✔     | ✔    | `png` `svg`          |
+| Grunt      | ✔     | ✔    | `png` `eps`          |
+| HTML5      | ✔     | ✔    | `png` `svg`          |
+| JavaScript | ✔     | ✖    | `svg`                |
+| Marionnet  | ✖     | ✔    | `png`                |
+| Modernizr  | ✔     | ✖    | `ai`  `eps`          |
+| MongoDB    | ✖     | ✔    | `png`                |
 | NodeJS     | ✔     | ✖    | `eps`                |
-| Python     | ✔     | ✔    | `svg` `png`          |
-| Yeoman     | ✔     | ✔    | `ai` `png`           |
+| Yeoman     | ✔     | ✔    | `png` `ai`           |
 
 
 ## Links Interessantes
@@ -40,3 +37,8 @@ Uma coleção de adesivos para desenvolvedores.
 * [GitHub Media](https://github.com/github/media)
 * [GitHub Logos](https://github.com/logos)
 * [Octodex](http://octodex.github.com/)
+
+
+## Contribuir
+
+Deixe sua [sugestão](https://github.com/vitorbritto/dev-stickers/issues/1) ou faça o *fork* deste repositório para realizar um *pull request*.

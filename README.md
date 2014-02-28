@@ -14,15 +14,22 @@ Uma coleção de adesivos para desenvolvedores.
 | Tecnologia | Print | View | Formatos Disponíveis |
 |:-----------|:-----:|:----:|:--------------------:|
 | AngularJS  | ✖     | ✔    | `png`                |
-| CSS3       | ✔     | ✖    | `svg`                |
+| Backbone   | ✖     | ✔    | `png`                |
+| Bower	     | ✖     | ✔    | `png`                |
+| Chrome     | ✖     | ✔    | `png`                |
+| CSS3       | ✔     | ✔    | `png` `svg`          |
+| Ember      | ✖     | ✔    | `png`                |
 | Express    | ✖     | ✔    | `png`                |
+| Firefox    | ✔     | ✔    | `png` `svg`          |
+| Git        | ✔     | ✔    | `png` `svg`          |
 | Grunt      | ✔     | ✔    | `png` `eps`          |
-| HTML5      | ✔     | ✖    | `svg`                |
-| JavaScript | ✔     | ✖    | `ai`                 |
-| Modernizr  | ✔     | ✖    | `ai` `eps`           |
+| HTML5      | ✔     | ✔    | `png` `svg`          |
+| JavaScript | ✔     | ✖    | `svg`                |
+| Marionnet  | ✖     | ✔    | `png`                |
+| Modernizr  | ✔     | ✖    | `ai`  `eps`          |
 | MongoDB    | ✖     | ✔    | `png`                |
 | NodeJS     | ✔     | ✖    | `eps`                |
-| Yeoman     | ✔     | ✖    | `ai`                 |
+| Yeoman     | ✔     | ✔    | `png` `ai`           |
 
 
 ## Links Interessantes

@@ -42,3 +42,8 @@ Uma coleção de adesivos para desenvolvedores.
 ## Contribuir
 
 Deixe sua [sugestão](https://github.com/vitorbritto/dev-stickers/issues/1) ou faça o *fork* deste repositório para realizar um *pull request*.
+
+## Licença
+
+[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto
+

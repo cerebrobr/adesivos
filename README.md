@@ -15,7 +15,7 @@ Uma coleção de adesivos para desenvolvedores.
 |:-----------|:-----:|:----:|:--------------------:|
 | AngularJS  | ✖     | ✔    | `png`                |
 | Backbone   | ✖     | ✔    | `png`                |
-| Bower	     | ✖     | ✔    | `png`                |
+| Bower      | ✔     | ✔    | `png` `svg`          |
 | Chrome     | ✖     | ✔    | `png`                |
 | CSS3       | ✔     | ✔    | `png` `svg`          |
 | Ember      | ✖     | ✔    | `png`                |

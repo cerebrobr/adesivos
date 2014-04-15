@@ -22,6 +22,7 @@ Uma coleção de adesivos para desenvolvedores.
 | Express    | ✖     | ✔    | `png`                |
 | Firefox    | ✔     | ✔    | `png` `svg`          |
 | Git        | ✔     | ✔    | `png` `svg`          |
+| GitHub     | ✔     | ✔    | `png` `ai`           |
 | Grunt      | ✔     | ✔    | `png` `eps`          |
 | HTML5      | ✔     | ✔    | `png` `svg`          |
 | JavaScript | ✔     | ✖    | `svg`                |

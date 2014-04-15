@@ -27,7 +27,7 @@ Uma coleção de adesivos para desenvolvedores.
 | HTML5      | ✔     | ✔    | `png` `svg`          |
 | JavaScript | ✔     | ✖    | `svg`                |
 | Marionnet  | ✖     | ✔    | `png`                |
-| Modernizr  | ✔     | ✖    | `ai`  `eps`          |
+| Modernizr  | ✔     | ✔    | `png` `ai` `eps`     |
 | MongoDB    | ✖     | ✔    | `png`                |
 | NodeJS     | ✔     | ✖    | `eps`                |
 | Yeoman     | ✔     | ✔    | `png` `ai`           |

@@ -1,4 +1,4 @@
-# Dev Stickers
+# Adesivos
 
 Uma coleção de adesivos para desenvolvedores.
 
@@ -40,11 +40,8 @@ Uma coleção de adesivos para desenvolvedores.
 * [Octodex](http://octodex.github.com/)
 
 
-## Contribuir
+<br/>
 
-Deixe sua [sugestão](https://github.com/vitorbritto/dev-stickers/issues/1) ou faça o *fork* deste repositório para realizar um *pull request*.
+---
 
-## Licença
-
-[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto
-
+#### [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)

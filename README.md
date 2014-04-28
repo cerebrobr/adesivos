@@ -13,14 +13,14 @@ Uma coleção de adesivos para o seu notebook. =]
 
 | Tecnologia | View                         | Print      |
 |:-----------|:----------------------------:|:----------:|
-| AngularJS  | `png`                        |            |
-| Backbone   | `png`                        |            |
-| Bower      | `png`                        | `svg`      |
-| Chrome     | `png`                        |            |
-| CSS3       | `png`                        | `svg`      |
-| Ember      | `png`                        |            |
-| Express    | `png`                        |            |
-| Firefox    | `png`                        | `svg`      |
+| AngularJS  | [`png`](view/angularjs.png)  |            |
+| Backbone   | [`png`](view/backbone.png)   |            |
+| Bower      | [`png`](view/bower.png)      | `svg`      |
+| Chrome     | [`png`](view/chrome.png)     |            |
+| CSS3       | [`png`](view/css3.png)       | `svg`      |
+| Ember      | [`png`](view/ember.png)      |            |
+| Express    | [`png`](view/express.png)    |            |
+| Firefox    | [`png`](view/firefox.png)    | `svg`      |
 | Git        | [`png`](view/git.png)        | `svg`      |
 | GitHub     | [`png`](view/github.png)     | `ai`       |
 | Grunt      | [`png`](view/grunt.png)      | `eps`      |

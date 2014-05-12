@@ -35,8 +35,8 @@ Uma coleção de adesivos para o seu notebook. =]
 
 ## Links Interessantes
 
-* [GitHub Media](https://github.com/github/media)
 * [GitHub Logos](https://github.com/logos)
+* [GitHub Media](https://github.com/github/media)
 * [Octodex](http://octodex.github.com/)
 
 

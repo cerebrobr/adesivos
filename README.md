@@ -26,6 +26,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Grunt      | [`png`](view/grunt.png)      | `eps`      |
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
 | JavaScript |                              | `svg`      |
+| jQuery     | [`png`](view/jquery.png)     | `svg`      |
 | Marionnete | [`png`](view/marionette.png) |            |
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |

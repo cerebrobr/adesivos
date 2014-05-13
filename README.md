@@ -30,6 +30,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |
 | NodeJS     |                              | `eps`      |
+| WordPress  | [`png`](view/wordpress.png)  | `ai`       |
 | Yeoman     | [`png`](view/yeoman.png)     | `ai`       |
 
 

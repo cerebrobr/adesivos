@@ -18,6 +18,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Bower      | [`png`](view/bower.png)      | `svg`      |
 | Chrome     | [`png`](view/chrome.png)     |            |
 | CSS3       | [`png`](view/css3.png)       | `svg`      |
+| Drupal     | [`png`](view/drupal.png)     | `svg`      |
 | Ember      | [`png`](view/ember.png)      |            |
 | Express    | [`png`](view/express.png)    |            |
 | Firefox    | [`png`](view/firefox.png)    | `svg`      |

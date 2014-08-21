@@ -25,6 +25,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Git        | [`png`](view/git.png)        | `svg`      |
 | GitHub     | [`png`](view/github.png)     | `ai`       |
 | Grunt      | [`png`](view/grunt.png)      | `eps`      |
+| Gulp       | [`png`](view/gulp.png)       |            |
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
 | JavaScript |                              | `svg`      |
 | Jenkis     |                              | `svg`      |
@@ -36,6 +37,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |
 | WordPress  | [`png`](view/wordpress.png)  | `ai`       |
+| Slim       | [`png`](view/slim.png)       |            |
 | Yeoman     | [`png`](view/yeoman.png)     | `ai`       |
 
 

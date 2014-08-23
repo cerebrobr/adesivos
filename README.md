@@ -20,6 +20,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | CSS3       | [`png`](view/css3.png)       | `svg`      |
 | Drupal     | [`png`](view/drupal.png)     | `svg`      |
 | Ember      | [`png`](view/ember.png)      |            |
+| Engine Yard|                              | `ai`       |
 | Express    | [`png`](view/express.png)    |            |
 | Firefox    | [`png`](view/firefox.png)    | `svg`      |
 | Git        | [`png`](view/git.png)        | `svg`      |
@@ -34,6 +35,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |
 | NodeJS     |                              | `eps`      |
+| PHP        |                              | `ai`       |
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |
 | WordPress  | [`png`](view/wordpress.png)  | `ai`       |

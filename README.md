@@ -30,7 +30,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
 | JavaScript |                              | `svg`      |
 | Jenkis     |                              | `svg`      |
-| Jekyll     | [`png`](view/jekyll.png)     | `svg` `png`|
+| Jekyll     | [`png`](view/jekyll.png)     | `svg`      |
 | jQuery     | [`png`](view/jquery.png)     | `svg`      |
 | Marionnete | [`png`](view/marionette.png) |            |
 | Middleman  |                              | `svg`      |
@@ -40,7 +40,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | PHP        |                              | `ai`       |
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |
-| Sinatra    | [`png`](view/sinatra.png)    | `png`      |
+| Sinatra    | [`png`](view/sinatra.png)    |            |
 | WordPress  | [`png`](view/wordpress.png)  | `ai`       |
 | Slim       | [`png`](view/slim.png)       |            |
 | Yeoman     | [`png`](view/yeoman.png)     | `ai`       |

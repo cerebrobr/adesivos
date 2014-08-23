@@ -32,12 +32,14 @@ Uma coleção de adesivos para o seu notebook. =]
 | Jenkis     |                              | `svg`      |
 | jQuery     | [`png`](view/jquery.png)     | `svg`      |
 | Marionnete | [`png`](view/marionette.png) |            |
+| Middleman  |                              | `svg`      |
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |
 | NodeJS     |                              | `eps`      |
 | PHP        |                              | `ai`       |
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |
+| Sinatra    | [`png`](view/sinatra.png)    | `png`      |
 | WordPress  | [`png`](view/wordpress.png)  | `ai`       |
 | Slim       | [`png`](view/slim.png)       |            |
 | Yeoman     | [`png`](view/yeoman.png)     | `ai`       |

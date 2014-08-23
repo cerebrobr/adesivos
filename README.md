@@ -30,6 +30,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
 | JavaScript |                              | `svg`      |
 | Jenkis     |                              | `svg`      |
+| Jekyll     | [`png`](view/jekyll.png)     | `svg` `png`|
 | jQuery     | [`png`](view/jquery.png)     | `svg`      |
 | Marionnete | [`png`](view/marionette.png) |            |
 | Middleman  |                              | `svg`      |

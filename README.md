@@ -42,6 +42,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | NodeJS     |                              | `eps`      |
 | Phantom    | [`png`](view/phantomjs.png)  |            |
 | PHP        |                              | `ai`       |
+| POW        | [`png`](view/pow.png)        |            |
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |
 | Sinatra    | [`png`](view/sinatra.png)    |            |

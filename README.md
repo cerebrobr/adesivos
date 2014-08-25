@@ -22,21 +22,25 @@ Uma coleção de adesivos para o seu notebook. =]
 | Ember      | [`png`](view/ember.png)      |            |
 | Engine Yard|                              | `ai`       |
 | Express    | [`png`](view/express.png)    |            |
+| Fedora     | [`png`](view/fedora.png)     |            |
 | Firefox    | [`png`](view/firefox.png)    | `svg`      |
 | Git        | [`png`](view/git.png)        | `svg`      |
 | GitHub     | [`png`](view/github.png)     | `ai`       |
 | Grunt      | [`png`](view/grunt.png)      | `eps`      |
 | Gulp       | [`png`](view/gulp.png)       |            |
+| Handlebars | [`png`](view/handlebars.png) |            |
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
 | JavaScript |                              | `svg`      |
 | Jenkis     |                              | `svg`      |
 | Jekyll     | [`png`](view/jekyll.png)     | `svg`      |
 | jQuery     | [`png`](view/jquery.png)     | `svg`      |
+| Knockout   | [`png`](view/knockout.png)   |            |
 | Marionnete | [`png`](view/marionette.png) |            |
 | Middleman  |                              | `svg`      |
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |
 | NodeJS     |                              | `eps`      |
+| Phantom    | [`png`](view/phantomjs.png)  |            |
 | PHP        |                              | `ai`       |
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |

@@ -20,6 +20,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | CSS3       | [`png`](view/css3.png)       | `svg`      |
 | Drupal     | [`png`](view/drupal.png)     | `svg`      |
 | Ember      | [`png`](view/ember.png)      |            |
+| Engine Yard|                              | `ai`       |
 | Express    | [`png`](view/express.png)    |            |
 | Firefox    | [`png`](view/firefox.png)    | `svg`      |
 | Git        | [`png`](view/git.png)        | `svg`      |
@@ -29,13 +30,17 @@ Uma coleção de adesivos para o seu notebook. =]
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
 | JavaScript |                              | `svg`      |
 | Jenkis     |                              | `svg`      |
+| Jekyll     | [`png`](view/jekyll.png)     | `svg`      |
 | jQuery     | [`png`](view/jquery.png)     | `svg`      |
 | Marionnete | [`png`](view/marionette.png) |            |
+| Middleman  |                              | `svg`      |
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |
 | NodeJS     |                              | `eps`      |
+| PHP        |                              | `ai`       |
 | Ruby       |                              | `svg`      |
 | Rails      |                              | `eps`      |
+| Sinatra    | [`png`](view/sinatra.png)    |            |
 | WordPress  | [`png`](view/wordpress.png)  | `ai`       |
 | Slim       | [`png`](view/slim.png)       |            |
 | Yeoman     | [`png`](view/yeoman.png)     | `ai`       |

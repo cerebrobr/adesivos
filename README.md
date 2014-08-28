@@ -27,15 +27,15 @@ Uma coleção de adesivos para o seu notebook. =]
 | Grunt      | [`png`](view/grunt.png)      | `eps`      |
 | Gulp       | [`png`](view/gulp.png)       |            |
 | HTML5      | [`png`](view/HTML5.png)      | `svg`      |
-| JavaScript |                              | `svg`      |
-| Jenkis     |                              | `svg`      |
+| JavaScript | [`png`](view/JavaScript.png) | `svg` `eps`|
+| Jenkis     | [`png`](view/jenkis.png)     | `svg`      |
 | jQuery     | [`png`](view/jquery.png)     | `svg`      |
 | Marionnete | [`png`](view/marionette.png) |            |
 | Modernizr  | [`png`](view/modernizr.png)  | `ai` `eps` |
 | MongoDB    | [`png`](view/mongodb.png)    |            |
 | NodeJS     |                              | `eps`      |
-| Ruby       |                              | `svg`      |
-| Rails      |                              | `eps`      |
+| Ruby       | [`png`](view/Ruby_logo.png)  | `svg`      |
+| Rails      | [`png`](view/rails.png)      | `eps`      |
 | WordPress  | [`png`](view/wordpress.png)  | `ai`       |
 | Slim       | [`png`](view/slim.png)       |            |
 | Yeoman     | [`png`](view/yeoman.png)     | `ai`       |

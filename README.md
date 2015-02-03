@@ -18,6 +18,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Bower      | [`png`](view/bower.png)          | `svg`      |
 | Chrome     | [`png`](view/chrome.png)         |            |
 | CSS3       | [`png`](view/css3.png)           | `svg`      |
+| Django     | [`png`](view/django_symbol.png)  |            |
+| Django Full| [`png`](view/django_full.png)    |            |
 | Drupal     | [`png`](view/drupal.png)         | `svg`      |
 | Ember      | [`png`](view/ember.png)          |            |
 | Engine Yard|                                  | `ai`       |

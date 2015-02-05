@@ -38,6 +38,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Jekyll            | [`png`](view/jekyll.png)         | `svg`      |
 | jQuery            | [`png`](view/jquery.png)         | `svg`      |
 | Knockout          | [`png`](view/knockout.png)       |            |
+| Less              | [`png`](view/less.png)           |            |
 | Marionnete        | [`png`](view/marionette.png)     |            |
 | Middleman         |                                  | `svg`      |
 | Modernizr         | [`png`](view/modernizr.png)      | `ai` `eps` |

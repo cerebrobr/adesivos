@@ -36,11 +36,12 @@ Uma coleção de adesivos para o seu notebook. =]
 | Handlebars        | [`png`](view/handlebars.png)     |            |
 | HTML5             | [`png`](view/HTML5.png)          | `svg`      |
 | JavaScript        |                                  | `svg`      |
-| Jenkis            |                                  | `svg`      |
 | Jekyll            | [`png`](view/jekyll.png)         | `svg`      |
+| Jenkis            |                                  | `svg`      |
 | jQuery            | [`png`](view/jquery.png)         | `svg`      |
 | Knockout          | [`png`](view/knockout.png)       |            |
-| Marionnete        | [`png`](view/marionette.png)     |            |
+| Less              | [`png`](view/less.png)           |            |
+| Marionette        | [`png`](view/marionette.png)     |            |
 | Middleman         |                                  | `svg`      |
 | Modernizr         | [`png`](view/modernizr.png)      | `ai` `eps` |
 | MongoDB           | [`png`](view/mongodb.png)        |            |
@@ -51,11 +52,11 @@ Uma coleção de adesivos para o seu notebook. =]
 | PySide            | [`png`](view/pyside.png)         |            |
 | Python            | [`png`](view/python_symbol.png)  | `eps`      |
 | Python Full       | [`png`](view/python_full.png)    | `eps`      |
-| Ruby              |                                  | `svg`      |
 | Rails             |                                  | `eps`      |
+| Ruby              |                                  | `svg`      |
 | Sinatra           | [`png`](view/sinatra.png)        |            |
-| WordPress         | [`png`](view/wordpress.png)      | `ai`       |
 | Slim              | [`png`](view/slim.png)           |            |
+| WordPress         | [`png`](view/wordpress.png)      | `ai`       |
 | Yeoman            | [`png`](view/yeoman.png)         | `ai`       |
 
 

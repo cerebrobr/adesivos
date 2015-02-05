@@ -39,7 +39,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | jQuery            | [`png`](view/jquery.png)         | `svg`      |
 | Knockout          | [`png`](view/knockout.png)       |            |
 | Less              | [`png`](view/less.png)           |            |
-| Marionnete        | [`png`](view/marionette.png)     |            |
+| Marionette        | [`png`](view/marionette.png)     |            |
 | Middleman         |                                  | `svg`      |
 | Modernizr         | [`png`](view/modernizr.png)      | `ai` `eps` |
 | MongoDB           | [`png`](view/mongodb.png)        |            |

@@ -27,6 +27,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Express           | [`png`](view/express.png)        |            |
 | Fedora            | [`png`](view/fedora.png)         |            |
 | Firefox           | [`png`](view/firefox.png)        | `svg`      |
+| Flask             | [`png`](view/flask.png)          |            |
+| Flask Full        | [`png`](view/flask-full.png)     |            |
 | Git               | [`png`](view/git.png)            | `svg`      |
 | GitHub            | [`png`](view/github.png)         | `ai`       |
 | Grunt             | [`png`](view/grunt.png)          | `eps`      |
@@ -46,6 +48,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Phantom           | [`png`](view/phantomjs.png)      |            |
 | PHP               |                                  | `ai`       |
 | POW               | [`png`](view/pow.png)            |            |
+| PySide            | [`png`](view/pyside.png)         |            |
 | Python            | [`png`](view/python_symbol.png)  | `eps`      |
 | Python Full       | [`png`](view/python_full.png)    | `eps`      |
 | Ruby              |                                  | `svg`      |

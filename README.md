@@ -46,7 +46,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | MongoDB           | [`png`](view/mongodb.png)        |            |
 | NodeJS            |                                  | `eps`      |
 | Phantom           | [`png`](view/phantomjs.png)      |            |
-| PHP               | [`png`](view/php-logo.png        | `ai`       |
+| PHP               | [`png`](view/php-logo.png)       | `ai`       |
 | POW               | [`png`](view/pow.png)            |            |
 | PySide            | [`png`](view/pyside.png)         |            |
 | Python            | [`png`](view/python_symbol.png)  | `eps`      |

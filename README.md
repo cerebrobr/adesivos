@@ -1,4 +1,4 @@
-# Adesivos
+﻿# Adesivos
 
 Uma coleção de adesivos para o seu notebook. =]
 
@@ -13,7 +13,7 @@ Uma coleção de adesivos para o seu notebook. =]
 
 | Tecnologia        | View                             | Print      |
 |:------------------|:--------------------------------:|:----------:|
-| AngularJS         | [`png`](view/angularjs.png)      |            |
+| AngularJS         | [`png`](view/angularjs.png)      | `svg`      |
 | Backbone          | [`png`](view/backbone.png)       |            |
 | Bower             | [`png`](view/bower.png)          | `svg`      |
 | Chrome            | [`png`](view/chrome.png)         |            |
@@ -35,7 +35,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Gulp              | [`png`](view/gulp.png)           |            |
 | Handlebars        | [`png`](view/handlebars.png)     |            |
 | HTML5             | [`png`](view/HTML5.png)          | `svg`      |
-| JavaScript        |                                  | `svg`      |
+| JavaScript        | [`png`](view/JavaScript.png)     | `svg` `eps`|
 | Jenkis            |                                  | `svg`      |
 | Jekyll            | [`png`](view/jekyll.png)         | `svg`      |
 | jQuery            | [`png`](view/jquery.png)         | `svg`      |
@@ -46,13 +46,13 @@ Uma coleção de adesivos para o seu notebook. =]
 | MongoDB           | [`png`](view/mongodb.png)        |            |
 | NodeJS            |                                  | `eps`      |
 | Phantom           | [`png`](view/phantomjs.png)      |            |
-| PHP               |                                  | `ai`       |
+| PHP               | [`png`](view/php-logo.png)       | `ai`       |
 | POW               | [`png`](view/pow.png)            |            |
 | PySide            | [`png`](view/pyside.png)         |            |
 | Python            | [`png`](view/python_symbol.png)  | `eps`      |
 | Python Full       | [`png`](view/python_full.png)    | `eps`      |
-| Ruby              |                                  | `svg`      |
-| Rails             |                                  | `eps`      |
+| Ruby              | [`png`](view/Ruby_logo.png)      | `svg`      |
+| Rails             | [`png`](view/rails.png)          | `eps`      |
 | Sinatra           | [`png`](view/sinatra.png)        |            |
 | WordPress         | [`png`](view/wordpress.png)      | `ai`       |
 | Slim              | [`png`](view/slim.png)           |            |

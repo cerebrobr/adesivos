@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   width="512"
+   height="512"
+   viewBox="-3.5 -3.5 511.99999 512"
+   enable-background="new -3.5 -3.5 695 185"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="angularjs.svg"
+   inkscape:export-filename="C:\Matheus\Dev\Square Cube\Projetos\Github\Adesivos\Repo\adesivos\view\angularjs.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata66"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs64" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview62"
+   showgrid="false"
+   fit-margin-top="10"
+   fit-margin-right="10"
+   fit-margin-bottom="10"
+   fit-margin-left="10"
+   inkscape:zoom="0.44316548"
+   inkscape:cx="287.55749"
+   inkscape:cy="95.048604"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<filter
+   id="googleDropShadow"
+   color-interpolation-filters="sRGB">
+	<feOffset
+   result="offOut"
+   in="SourceGraphic"
+   dx="0.3"
+   dy="0.5"
+   id="feOffset4" />
+	<feGaussianBlur
+   stdDeviation="0.25"
+   result="blurOut"
+   in="offOut"
+   id="feGaussianBlur6" />
+	<feColorMatrix
+   type="matrix"
+   result="blurTransOut"
+   in="blurOut"
+   values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .8 0"
+   id="feColorMatrix8" />
+	<feBlend
+   in="SourceGraphic"
+   mode="normal"
+   in2="blurTransOut"
+   id="feBlend10" />
+</filter>
+
+<g
+   id="g48"
+   transform="matrix(2.913229,0,0,2.913229,8.8860711,-6.049075)">
+	<polygon
+   points="166.462,29.46 83.243,0.875 0.554,29.975 13.621,138.311 83.331,176.625 153.4,137.792 "
+   id="polygon50"
+   style="fill:#b3b3b3" />
+	<polygon
+   points="83.05,10.089 83.05,167.471 146.041,132.609 158.214,35.721 "
+   id="polygon52"
+   style="fill:#a6120d" />
+	<polygon
+   points="21.03,133.072 83.049,167.471 83.049,10.086 9.833,36.183 "
+   id="polygon54"
+   style="fill:#dd1b16" />
+	<path
+   d="m 103.74,93.871 -20.69,9.675 H 61.243 L 50.992,129.186 31.925,129.539 83.05,15.804 103.74,93.871 z M 101.74,89 83.187,52.271 67.969,88.368 h 15.08 L 101.74,89 z"
+   id="path56"
+   inkscape:connector-curvature="0"
+   style="fill:#f2f2f2" />
+	<polygon
+   points="83.186,52.271 100.454,88.396 83.088,88.396 83.049,103.523 107.062,103.546 118.285,129.543 136.529,129.881 83.049,15.804 "
+   id="polygon58"
+   style="fill:#b3b3b3" />
+</g>
+
+</svg>

@@ -23,6 +23,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Django            | [`png`](view/django_symbol.png)  | [`eps`](print/django_symbol.eps)                                              |
 | Django Full       | [`png`](view/django_full.png)    |                                                                               |
 | Django Official   | [`png`](view/django_official.png)| [`eps`](print/django_official.eps)                                            |
+| Docker            | [`png`](view/docker-vertical.png)| [`eps(V)`](print/docker-vertical.eps) [`eps(H)`](print/docker-horizontal.eps) |
 | Drupal            | [`png`](view/drupal.png)         | [`svg`](print/drupal.svg)                                                     |
 | Ember             | [`png`](view/ember.png)          | [`svg`](print/ember.svg)                                                      |
 | Engine Yard       |                                  | [`svg`](print/engine-yard.svg)                                                |

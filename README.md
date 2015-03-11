@@ -59,6 +59,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
 | Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       |
+| Go                | [`png`](view/gopher.png)         | [`svg`](print/gopher.svg)                                                       |
 
 
 ## Links Interessantes

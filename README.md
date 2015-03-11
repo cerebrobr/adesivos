@@ -33,6 +33,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Flask Full        | [`png`](view/flask-full.png)     | [`svg`](print/flask-full.svg)                                                 |
 | Git               | [`png`](view/git.png)            | [`svg`](print/Git-logo.svg)                                                   |
 | GitHub            | [`png`](view/github.png)         | [`ai`](print/github.ai)                                                       |
+| Go                | [`png`](view/gopher.png)         | [`svg`](print/gopher.svg)                                                       |
 | Grunt             | [`png`](view/grunt.png)          | [`eps`](print/grunt-logo.eps)                                                 |
 | Gulp              | [`png`](view/gulp.png)           | [`svg`](print/gulp.svg)                                                       |
 | Handlebars        | [`png`](view/handlebars.png)     | [`svg`](print/handlebars.svg)                                                 |
@@ -59,7 +60,6 @@ Uma coleção de adesivos para o seu notebook. =]
 | WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
 | Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       |
-| Go                | [`png`](view/gopher.png)         | [`svg`](print/gopher.svg)                                                       |
 
 
 ## Links Interessantes

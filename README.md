@@ -69,7 +69,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Slim              | [`png`](view/slim.png)     |                                                                               | 
 | Slack-full        | [`png`](view/slack-full.png) 
 | Slack-logo        | [`png`](view/slack-hashtag.png)
-| Sass              | [`png`](view/Sass.png)
+| Sass              | [`png`](view/sass.png)
 | Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       
 
 

@@ -48,7 +48,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)   
 |
-| Jasmine     		| [`png`](print/Jasmine-full.png)  |                                            |
+| Jasmine     		| [`png`](print/Jasmine-full.svg)  |                                            |
 | Knockout          | [`png`](view/knockout.png)       |                                                                               |
 | Marionnete        | [`png`](view/marionette.png)     |                                                                               |
 | Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |

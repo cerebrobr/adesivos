@@ -14,24 +14,22 @@ Uma coleção de adesivos para o seu notebook. =]
 | Tecnologia        | View                             | Print                                                                         |
 |:------------------|:--------------------------------:|:-----------------------------------------------------------------------------:|
 | AngularJS         | [`png`](view/angularjs.png)      | [`svg`](print/angularjs.svg)                                                  |
-| AngularJS Full    | [`png`](view/angularjs-full.png) | [`svg`](print/angularjs-full.svg)                                             |
-| Atom              | [`png`](view/Atom.png)           |
-|                                             
+| AngularJS Full    | [`png`](view/angularjs-full.png) | [`svg`](print/angularjs-full.svg)                  
+| Atom              | [`png`](view/Atom.png)           |                                            
 | Backbone          | [`png`](view/backbone.png)       | [`svg`](print/backbone.svg)                                                   |
 | Backbone Full     | [`png`](view/backbone-full.png)  | [`svg`](print/backbone-full.svg)                                              |
 | Bower             | [`png`](view/bower.png)          | [`svg`](print/bower.svg)                                                      |
 | Chrome            | [`png`](view/chrome.png)         | [`svg`](print/chrome.svg)                                                     |
-| CSS3              | [`png`](view/css3.png)           | [`svg`](print/CSS3.svg)                                                       |
+| CSS3              | [`png`](view/css3.png)           | [`svg`](print/CSS3.svg)                                                       |  
 | Django            | [`png`](view/django_symbol.png)  | [`eps`](print/django_symbol.eps)                                              |
 | Django Full       | [`png`](view/django_full.png)    |                                                                               |
 | Django Official   | [`png`](view/django_official.png)| [`eps`](print/django_official.eps)                                            |
 | Docker            | [`png`](view/docker-vertical.png)| [`eps(V)`](print/docker-vertical.eps) [`eps(H)`](print/docker-horizontal.eps) |
 | Drupal            | [`png`](view/drupal.png)         | [`svg`](print/drupal.svg)                                                     |
 | Dart-full         | [`png`](view/Dart-full.png)
-|
 | Dart-logo         | [`png`](view/dart-logo.png)
-|
 | Ember             | [`png`](view/ember.png)          | [`svg`](print/ember.svg)                                                      |
+| Ember             | [`png`](view/ember.png)          | [`svg`](print/ember.svg)  
 | Engine Yard       |                                  | [`svg`](print/engine-yard.svg)                                                |
 | Express           | [`png`](view/express.png)        | [`svg`](print/express.svg)                                                    |
 | Fedora            | [`png`](view/fedora.png)         | [`svg`](print/fedora.svg)                                                     |
@@ -66,17 +64,13 @@ Uma coleção de adesivos para o seu notebook. =]
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             |                                  | [`eps`](print/rails.eps)                                                      |
 | React             | [`png`](view/react-logo.png) 
-|
 | Sinatra           | [`png`](view/sinatra.png)        |                                                                               |
 | WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
 | Slim              | [`png`](view/slim.png)     |                                                                               | 
 | Slack-full        | [`png`](view/slack-full.png) 
-| 
 | Slack-logo        | [`png`](view/slack-hashtag.png)
-|
 | Sass              | [`png`](view/Sass.png)
-|
-| Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       |
+| Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       
 
 
 ## Links Interessantes

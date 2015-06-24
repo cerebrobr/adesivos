@@ -19,6 +19,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Backbone Full     | [`png`](view/backbone-full.png)  | [`svg`](print/backbone-full.svg)                                              |
 | Bower             | [`png`](view/bower.png)          | [`svg`](print/bower.svg)                                                      |
 | Chrome            | [`png`](view/chrome.png)         | [`svg`](print/chrome.svg)                                                     |
+| CodePen           | [`png`](view/codepen.png)        |                                                                               |
 | CSS3              | [`png`](view/css3.png)           | [`svg`](print/CSS3.svg)                                                       |
 | Django            | [`png`](view/django_symbol.png)  | [`eps`](print/django_symbol.eps)                                              |
 | Django Full       | [`png`](view/django_full.png)    |                                                                               |

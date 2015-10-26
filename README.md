@@ -26,6 +26,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Django Official   | [`png`](view/django_official.png)| [`eps`](print/django_official.eps)                                            |
 | Docker            | [`png`](view/docker-vertical.png)| [`eps(V)`](print/docker-vertical.eps) [`eps(H)`](print/docker-horizontal.eps) |
 | Drupal            | [`png`](view/drupal.png)         | [`svg`](print/drupal.svg)                                                     |
+| DigitalOcean      | [`png`](view/digitalocean.png)   | [`eps`](print/digitalocean.eps)                                               |
 | Ember             | [`png`](view/ember.png)          | [`svg`](print/ember.svg)                                                      |
 | Engine Yard       |                                  | [`svg`](print/engine-yard.svg)                                                |
 | Express           | [`png`](view/express.png)        | [`svg`](print/express.svg)                                                    |
@@ -35,7 +36,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Flask Full        | [`png`](view/flask-full.png)     | [`svg`](print/flask-full.svg)                                                 |
 | Git               | [`png`](view/git.png)            | [`svg`](print/Git-logo.svg)                                                   |
 | GitHub            | [`png`](view/github.png)         | [`ai`](print/github.ai)                                                       |
-| Go                | [`png`](view/gopher.png)         | [`svg`](print/gopher.svg)                                                       |
+| Go                | [`png`](view/gopher.png)         | [`svg`](print/gopher.svg)                                                     |
 | Grunt             | [`png`](view/grunt.png)          | [`eps`](print/grunt-logo.eps)                                                 |
 | Gulp              | [`png`](view/gulp.png)           | [`svg`](print/gulp.svg)                                                       |
 | Handlebars        | [`png`](view/handlebars.png)     | [`svg`](print/handlebars.svg)                                                 |

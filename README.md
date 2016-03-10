@@ -15,6 +15,7 @@ Uma coleção de adesivos para o seu notebook. =]
 |:------------------|:--------------------------------:|:-----------------------------------------------------------------------------:|
 | AngularJS         | [`png`](view/angularjs.png)      | [`svg`](print/angularjs.svg)                                                  |
 | AngularJS Full    | [`png`](view/angularjs-full.png) | [`svg`](print/angularjs-full.svg)                                             |
+| Atom              | [`png`](view/atom.png)           | [`svg`](print/atom.svg)                                                       |
 | Backbone          | [`png`](view/backbone.png)       | [`svg`](print/backbone.svg)                                                   |
 | Backbone Full     | [`png`](view/backbone-full.png)  | [`svg`](print/backbone-full.svg)                                              |
 | Bower             | [`png`](view/bower.png)          | [`svg`](print/bower.svg)                                                    |

@@ -53,6 +53,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |
 | MongoDB           | [`png`](view/mongodb.png)        |                                                                               |
 | NodeJS            |                                  | `eps`                                                                         |
+| NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                 |
 | Phantom           | [`png`](view/phantomjs.png)      |                                                                               |
 | PHP               |                                  | [`ai`](print/php-logo.ai)                                                     |
 | POW               | [`png`](view/pow.png)            |                                                                               |

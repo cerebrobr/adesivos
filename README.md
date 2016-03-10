@@ -20,6 +20,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Bower             | [`png`](view/bower.png)          | [`svg`](print/bower.svg)                                                    |
 | Browserify        | [`png`](view/browserify.png)     | [`svg`](print/browserify.svg)                                                      |
 | Browsersync       | [`png`](view/browsersync.png)    | [`svg`](print/browsersync.svg)                                                |
+| Cassandra         | [`png`](view/cassandra.png)      | [`svg`](print/cassandra.svg)                                                  |
 | Chrome            | [`png`](view/chrome.png)         | [`svg`](print/chrome.svg)                                                     |
 | CodePen           | [`png`](view/codepen.png)        |                                                                               |
 | CSS3              | [`png`](view/css3.png)           | [`svg`](print/CSS3.svg)                                                       |

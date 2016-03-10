@@ -44,6 +44,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Gulp              | [`png`](view/gulp.png)           | [`svg`](print/gulp.svg)                                                       |
 | Handlebars        | [`png`](view/handlebars.png)     | [`svg`](print/handlebars.svg)                                                 |
 | HTML5             | [`png`](view/HTML5.png)          | [`svg`](print/HTML5_Logo.svg)                                                 |
+| Ionic Framework   | [`png`](view/ionic.png)          | [`svg`](print/ionic.svg)                                                      |
 | JavaScript        | [`png`](view/javascript.png)     | [`svg`](print/javascript.svg)                                                 |
 | Jenkis            |                                  | [`svg`](print/jenkis.svg)                                                     |
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |

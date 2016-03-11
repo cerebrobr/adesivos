@@ -52,6 +52,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
 | Knockout          | [`png`](view/knockout.png)       |                                                                               |
 | Marionnete        | [`png`](view/marionette.png)     |                                                                               |
+| Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
 | Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |
 | MongoDB           | [`png`](view/mongodb.png)        |                                                                               |

@@ -55,7 +55,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
 | Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |
-| MongoDB           | [`png`](view/mongodb.png)        |                                                                               |
+| MongoDB           | [`png`](view/mongodb.png)        | [`svg`](print/mongodb.svg)                                                  |
 | NodeJS            |                                  | `eps`                                                                         |
 | NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                 |
 | Phantom           | [`png`](view/phantomjs.png)      |                                                                               |

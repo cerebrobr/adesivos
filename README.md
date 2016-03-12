@@ -51,7 +51,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
 | Knockout          | [`png`](view/knockout.png)       |                                                                               |
-| Marionnete        | [`png`](view/marionette.png)     |                                                                               |
+| Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                     |
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
 | Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |

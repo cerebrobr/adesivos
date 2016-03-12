@@ -70,7 +70,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
 | WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
-| Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       |
+| Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                     |
 | Zend Framework    | [`png`](view/zend-framework.png) | [`svg`](print/zend-framework.svg)                                             |
 | Zend Framework 2  | [`png`](view/zend-framework2.png) | [`svg`](print/zend-framework2.svg)                                           |
 

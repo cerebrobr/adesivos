@@ -50,7 +50,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Jenkins           | [`png`](view/jenkins.png)     | [`svg`](print/jenkins.svg)                                                     |
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
-| Knockout          | [`png`](view/knockout.png)       |                                                                               |
+| Knockout          | [`png`](view/knockout.png)       | [`svg`](print/knockout.svg)                                                   |
 | Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                     |
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
 | Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |

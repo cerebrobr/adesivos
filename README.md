@@ -47,7 +47,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | HTML5             | [`png`](view/HTML5.png)          | [`svg`](print/HTML5_Logo.svg)                                                 |
 | Ionic Framework   | [`png`](view/ionic.png)          | [`svg`](print/ionic.svg)                                                      |
 | JavaScript        | [`png`](view/javascript.png)     | [`svg`](print/javascript.svg)                                                 |
-| Jenkis            |                                  | [`svg`](print/jenkis.svg)                                                     |
+| Jenkins           | [`png`](view/jenkins.png)     | [`svg`](print/jenkins.svg)                                                     |
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
 | Knockout          | [`png`](view/knockout.png)       |                                                                               |

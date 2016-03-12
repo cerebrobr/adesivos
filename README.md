@@ -66,7 +66,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
-| Sinatra           | [`png`](view/sinatra.png)        |                                                                               |
+| Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
 | WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |

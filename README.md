@@ -60,7 +60,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | NodeJS Full       | [`png`](view/nodejsfull.png)     | [`svg`](print/nodejsfull.svg)                                                 |
 | NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                 |
 | Phantom           | [`png`](view/phantomjs.png)      |                                                                               |
-| PHP               |                                  | [`ai`](print/php-logo.ai)                                                     |
+| PHP               | [`png`](view/php.png)            | [`svg`](print/php.svg) [`ai`](print/php-logo.ai)                              |
 | POW               | [`png`](view/pow.png)            |                                                                               |
 | PySide            | [`png`](view/pyside.png)         |                                                                               |
 | Python            | [`png`](view/python_symbol.png)  | [`eps`](print/python_symbol.eps)                                              |

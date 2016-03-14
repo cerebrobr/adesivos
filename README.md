@@ -47,15 +47,15 @@ Uma coleção de adesivos para o seu notebook. =]
 | HTML5             | [`png`](view/HTML5.png)          | [`svg`](print/HTML5_Logo.svg)                                                 |
 | Ionic Framework   | [`png`](view/ionic.png)          | [`svg`](print/ionic.svg)                                                      |
 | JavaScript        | [`png`](view/javascript.png)     | [`svg`](print/javascript.svg)                                                 |
-| Jenkis            |                                  | [`svg`](print/jenkis.svg)                                                     |
+| Jenkins           | [`png`](view/jenkins.png)     | [`svg`](print/jenkins.svg)                                                     |
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
-| Knockout          | [`png`](view/knockout.png)       |                                                                               |
-| Marionnete        | [`png`](view/marionette.png)     |                                                                               |
+| Knockout          | [`png`](view/knockout.png)       | [`svg`](print/knockout.svg)                                                   |
+| Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                     |
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
 | Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |
-| MongoDB           | [`png`](view/mongodb.png)        |                                                                               |
+| MongoDB           | [`png`](view/mongodb.png)        | [`svg`](print/mongodb.svg)                                                  |
 | NodeJS            |                                  | `eps`                                                                         |
 | NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                 |
 | Phantom           | [`png`](view/phantomjs.png)      |                                                                               |
@@ -65,12 +65,12 @@ Uma coleção de adesivos para o seu notebook. =]
 | Python            | [`png`](view/python_symbol.png)  | [`eps`](print/python_symbol.eps)                                              |
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
-| Rails             |                                  | [`eps`](print/rails.eps)                                                      |
-| Sinatra           | [`png`](view/sinatra.png)        |                                                                               |
+| Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
+| Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
 | WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
-| Yeoman            | [`png`](view/yeoman.png)         | [`ai`](print/yeoman.ai)                                                       |
+| Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                     |
 | Zend Framework    | [`png`](view/zend-framework.png) | [`svg`](print/zend-framework.svg)                                             |
 | Zend Framework 2  | [`png`](view/zend-framework2.png) | [`svg`](print/zend-framework2.svg)                                           |
 

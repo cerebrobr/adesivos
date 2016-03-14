@@ -53,13 +53,14 @@ Uma coleção de adesivos para o seu notebook. =]
 | Knockout          | [`png`](view/knockout.png)       | [`svg`](print/knockout.svg)                                                   |
 | Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                     |
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
-| Middleman         |                                  | [`svg`](print/middleman.svg)                                                  |
+| Middleman         | [`png`](view/middleman.png)      | [`svg`](print/middleman.svg)                                                  |
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |
 | MongoDB           | [`png`](view/mongodb.png)        | [`svg`](print/mongodb.svg)                                                  |
-| NodeJS            |                                  | `eps`                                                                         |
+| NodeJS            | [`png`](view/nodejs.png)         | [`svg`](print/nodejs.svg)                                                     |
+| NodeJS Full       | [`png`](view/nodejsfull.png)     | [`svg`](print/nodejsfull.svg)                                                 |
 | NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                 |
 | Phantom           | [`png`](view/phantomjs.png)      |                                                                               |
-| PHP               |                                  | [`ai`](print/php-logo.ai)                                                     |
+| PHP               | [`png`](view/php.png)            | [`svg`](print/php.svg) [`ai`](print/php-logo.ai)                              |
 | POW               | [`png`](view/pow.png)            |                                                                               |
 | PySide            | [`png`](view/pyside.png)         |                                                                               |
 | Python            | [`png`](view/python_symbol.png)  | [`eps`](print/python_symbol.eps)                                              |
@@ -68,7 +69,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
-| WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
+| WordPress         | [`png`](view/wordpress.png)      | [`svg`](print/wordpress.svg)                                                   |
+| WordPress Full    | [`png`](view/wordpressfull.png)  | [`svg`](print/wordpressfull.svg) [`ai`](print/wordpress.ai)                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
 | Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                     |
 | Zend Framework    | [`png`](view/zend-framework.png) | [`svg`](print/zend-framework.svg)                                             |

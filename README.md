@@ -69,7 +69,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
-| WordPress         | [`png`](view/wordpress.png)      | [`ai`](print/wordpress.ai)                                                    |
+| WordPress         | [`png`](view/wordpress.png)      | [`svg`](view/wordpress.svg)                                                   |
+| WordPress Full    | [`png`](view/wordpressfull.png)  | [`svg`](view/wordpressfull.svg) [`ai`](print/wordpress.ai)                    |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
 | Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                     |
 | Zend Framework    | [`png`](view/zend-framework.png) | [`svg`](print/zend-framework.svg)                                             |

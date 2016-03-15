@@ -35,6 +35,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Engine Yard       |                                  | [`svg`](print/engine-yard.svg)                                                |
 | Express           | [`png`](view/express.png)        | [`svg`](print/express.svg)                                                    |
 | Fedora            | [`png`](view/fedora.png)         | [`svg`](print/fedora.svg)                                                     |
+| Firebase           | [`png`](view/firebase.png)        | [`svg`](print/firebase.svg)    
+ |
 | Firefox           | [`png`](view/firefox.png)        | [`svg`](print/firefox-logo.svg)                                               |
 | Flask             | [`png`](view/flask.png)          | [`svg`](print/flask.svg)                                                      |
 | Flask Full        | [`png`](view/flask-full.png)     | [`svg`](print/flask-full.svg)                                                 |

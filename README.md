@@ -36,6 +36,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Express           | [`png`](view/express.png)        | [`svg`](print/express.svg)                                                    |
 | Fedora            | [`png`](view/fedora.png)         | [`svg`](print/fedora.svg)                                                     |
 | Firefox           | [`png`](view/firefox.png)        | [`svg`](print/firefox-logo.svg)                                               |
+| Firebase           | [`png`](view/firebase.png)        | [`svg`](print/firebase.svg)
+ |
 | Flask             | [`png`](view/flask.png)          | [`svg`](print/flask.svg)                                                      |
 | Flask Full        | [`png`](view/flask-full.png)     | [`svg`](print/flask-full.svg)                                                 |
 | Git               | [`png`](view/git.png)            | [`svg`](print/Git-logo.svg)                                                   |
@@ -67,6 +69,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
+| React           | [`png`](view/react-backgroundWhite.png)  [`png`](view/react-backgroundBlack.png)        | [`svg`](print/react.svg)
+ |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
 | WordPress         | [`png`](view/wordpress.png)      | [`svg`](print/wordpress.svg)                                                   |

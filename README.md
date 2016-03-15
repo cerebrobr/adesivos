@@ -67,6 +67,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | PySide            | [`png`](view/pyside.png)         |                                                                               |
 | Python            | [`png`](view/python_symbol.png)  | [`eps`](print/python_symbol.eps)                                              |
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
+| React       | [`png`](view/react-backgroundBlack.png) [`png`](view/react-backgroundWhite.png)    | [`svg`](print/react.svg)
+ |
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |

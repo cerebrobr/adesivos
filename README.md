@@ -35,9 +35,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Engine Yard       |                                  | [`svg`](print/engine-yard.svg)                                                |
 | Express           | [`png`](view/express.png)        | [`svg`](print/express.svg)                                                    |
 | Fedora            | [`png`](view/fedora.png)         | [`svg`](print/fedora.svg)                                                     |
-| Firebase           | [`png`](view/firebase.png)        | [`svg`](print/firebase.svg)    
- |
-| Firefox           | [`png`](view/firefox.png)        | [`svg`](print/firefox-logo.svg)                                               |
+| Firebase           | [`png`](view/firebase.png)        | [`svg`](print/firebase.svg)     |
+| Firefox           | [`png`](view/firefox.png)        | [`svg`](print/firefox-logo.svg)     |
 | Flask             | [`png`](view/flask.png)          | [`svg`](print/flask.svg)                                                      |
 | Flask Full        | [`png`](view/flask-full.png)     | [`svg`](print/flask-full.svg)                                                 |
 | Git               | [`png`](view/git.png)            | [`svg`](print/Git-logo.svg)                                                   |
@@ -67,8 +66,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | PySide            | [`png`](view/pyside.png)         |                                                                               |
 | Python            | [`png`](view/python_symbol.png)  | [`eps`](print/python_symbol.eps)                                              |
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
-| React       | [`png`](view/react-backgroundBlack.png) [`png`](view/react-backgroundWhite.png)    | [`svg`](print/react.svg)
- |
+| React       | [`png`](view/react-backgroundBlack.png) [`png`](view/react-backgroundWhite.png)    | [`svg`](print/react.svg) |
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |

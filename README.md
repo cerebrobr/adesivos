@@ -18,8 +18,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Atom              | [`png`](view/atom.png)           | [`svg`](print/atom.svg)                                                       |
 | Backbone          | [`png`](view/backbone.png)       | [`svg`](print/backbone.svg)                                                   |
 | Backbone Full     | [`png`](view/backbone-full.png)  | [`svg`](print/backbone-full.svg)                                              |
-| Bower             | [`png`](view/bower.png)          | [`svg`](print/bower.svg)                                                    |
-| Browserify        | [`png`](view/browserify.png)     | [`svg`](print/browserify.svg)                                                      |
+| Bower             | [`png`](view/bower.png)          | [`svg`](print/bower.svg)                                                      |
+| Browserify        | [`png`](view/browserify.png)     | [`svg`](print/browserify.svg)                                                 |
 | Browsersync       | [`png`](view/browsersync.png)    | [`svg`](print/browsersync.svg)                                                |
 | Cassandra         | [`png`](view/cassandra.png)      | [`svg`](print/cassandra.svg)                                                  |
 | Chrome            | [`png`](view/chrome.png)         | [`svg`](print/chrome.svg)                                                     |
@@ -35,8 +35,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Engine Yard       |                                  | [`svg`](print/engine-yard.svg)                                                |
 | Express           | [`png`](view/express.png)        | [`svg`](print/express.svg)                                                    |
 | Fedora            | [`png`](view/fedora.png)         | [`svg`](print/fedora.svg)                                                     |
-| Firebase           | [`png`](view/firebase.png)        | [`svg`](print/firebase.svg)    
- |
+| Firebase          | [`png`](view/firebase.png)       | [`svg`](print/firebase.svg)                                                   |
 | Firefox           | [`png`](view/firefox.png)        | [`svg`](print/firefox-logo.svg)                                               |
 | Flask             | [`png`](view/flask.png)          | [`svg`](print/flask.svg)                                                      |
 | Flask Full        | [`png`](view/flask-full.png)     | [`svg`](print/flask-full.svg)                                                 |
@@ -49,34 +48,34 @@ Uma coleção de adesivos para o seu notebook. =]
 | HTML5             | [`png`](view/HTML5.png)          | [`svg`](print/HTML5_Logo.svg)                                                 |
 | Ionic Framework   | [`png`](view/ionic.png)          | [`svg`](print/ionic.svg)                                                      |
 | JavaScript        | [`png`](view/javascript.png)     | [`svg`](print/javascript.svg)                                                 |
-| Jenkins           | [`png`](view/jenkins.png)     | [`svg`](print/jenkins.svg)                                                     |
+| Jenkins           | [`png`](view/jenkins.png)        | [`svg`](print/jenkins.svg)                                                    |
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
 | Knockout          | [`png`](view/knockout.png)       | [`svg`](print/knockout.svg)                                                   |
-| Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                     |
+| Laravel           | [`png`](view/laravel.png)        | [`svg`](print/laravel.svg)                                                    |
+| Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                 |
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |
 | Middleman         | [`png`](view/middleman.png)      | [`svg`](print/middleman.svg)                                                  |
 | Modernizr         | [`png`](view/modernizr.png)      | [`ai`](print/Modernizr%2B2%2BLogo.ai) [`eps`](print/Modernizr%2B2%2BLogo.eps) |
-| MongoDB           | [`png`](view/mongodb.png)        | [`svg`](print/mongodb.svg)                                                  |
+| MongoDB           | [`png`](view/mongodb.png)        | [`svg`](print/mongodb.svg)                                                    |
 | NodeJS            | [`png`](view/nodejs.png)         | [`svg`](print/nodejs.svg)                                                     |
 | NodeJS Full       | [`png`](view/nodejsfull.png)     | [`svg`](print/nodejsfull.svg)                                                 |
-| NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                 |
+| NPM               | [`png`](view/npm.png)            | [`svg`](print/npm.svg)                                                        |
 | Phantom           | [`png`](view/phantomjs.png)      |                                                                               |
 | PHP               | [`png`](view/php.png)            | [`svg`](print/php.svg) [`ai`](print/php-logo.ai)                              |
 | POW               | [`png`](view/pow.png)            |                                                                               |
 | PySide            | [`png`](view/pyside.png)         |                                                                               |
 | Python            | [`png`](view/python_symbol.png)  | [`eps`](print/python_symbol.eps)                                              |
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
-| React       | [`png`](view/react-backgroundBlack.png) [`png`](view/react-backgroundWhite.png)    | [`svg`](print/react.svg)
- |
+| React             | [`png`](view/react-backgroundBlack.png) [`png`](view/react-backgroundWhite.png) | [`svg`](print/react.svg)       |
 | Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
-| WordPress         | [`png`](view/wordpress.png)      | [`svg`](print/wordpress.svg)                                                   |
-| WordPress Full    | [`png`](view/wordpressfull.png)  | [`svg`](print/wordpressfull.svg) [`ai`](print/wordpress.ai)                    |
+| WordPress         | [`png`](view/wordpress.png)      | [`svg`](print/wordpress.svg)                                                  |
+| WordPress Full    | [`png`](view/wordpressfull.png)  | [`svg`](print/wordpressfull.svg) [`ai`](print/wordpress.ai)                   |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
-| Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                     |
+| Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                             | 
 | Zend Framework    | [`png`](view/zend-framework.png) | [`svg`](print/zend-framework.svg)                                             |
 | Zend Framework 2  | [`png`](view/zend-framework2.png) | [`svg`](print/zend-framework2.svg)                                           |
 

@@ -75,7 +75,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | WordPress         | [`png`](view/wordpress.png)      | [`svg`](print/wordpress.svg)                                                  |
 | WordPress Full    | [`png`](view/wordpressfull.png)  | [`svg`](print/wordpressfull.svg) [`ai`](print/wordpress.ai)                   |
 | Slim              | [`png`](view/slim.png)           |                                                                               |
-| Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                             | 
+| Vue.js            | [`png`](view/vuejs.png)         | [`svg`](print/vuejs.svg) [`ai`](print/vuejs.ai)                             |
+| Yeoman            | [`png`](view/yeoman.png)         | [`svg`](print/yeoman.svg) [`ai`](print/yeoman.ai)                             |
 | Zend Framework    | [`png`](view/zend-framework.png) | [`svg`](print/zend-framework.svg)                                             |
 | Zend Framework 2  | [`png`](view/zend-framework2.png) | [`svg`](print/zend-framework2.svg)                                           |
 

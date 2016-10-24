@@ -13,6 +13,7 @@ Uma coleção de adesivos para o seu notebook. =]
 
 | Tecnologia        | View                             | Print                                                                         |
 |:------------------|:--------------------------------:|:-----------------------------------------------------------------------------:|
+| Android         | [`png`](view/android.png)      | [`svg`](print/android.svg)[`ai`](print/android.ai)                                                  |
 | AngularJS         | [`png`](view/angularjs.png)      | [`svg`](print/angularjs.svg)                                                  |
 | AngularJS Full    | [`png`](view/angularjs-full.png) | [`svg`](print/angularjs-full.svg)                                             |
 | Atom              | [`png`](view/atom.png)           | [`svg`](print/atom.svg)                                                       |

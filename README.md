@@ -4,7 +4,7 @@ Uma coleção de adesivos para o seu notebook. =]
 
 ## Estrutura
 
-* `print`: arquivos para impressão.
+* `print`: arquivos para impressão;
 * `view`: arquivos para visualização.
 
 > Nota: no momento da impressão verificar a resolução (300dpi) e escala de cores (CMYK).

@@ -84,9 +84,9 @@ Uma coleção de adesivos para o seu notebook. =]
 
 ## Links Interessantes
 
-* [GitHub Logos](https://github.com/logos)
-* [GitHub Media](https://github.com/github/media)
-* [Octodex](http://octodex.github.com/)
+* [GitHub Logos](https://github.com/logos);
+* [GitHub Media](https://github.com/github/media);
+* [Octodex](http://octodex.github.com/).
 
 
 <br/>

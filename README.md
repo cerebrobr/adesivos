@@ -53,6 +53,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Jekyll            | [`png`](view/jekyll.png)         | [`svg`](print/jekyll.svg)                                                     |
 | jQuery            | [`png`](view/jquery.png)         | [`svg`](print/jquery.svg)                                                     |
 | Knockout          | [`png`](view/knockout.png)       | [`svg`](print/knockout.svg)                                                   |
+| Kotlin            | [`png`](view/kotlin.png)         | [`svg`](print/kotlin.svg)                                                     |
 | Laravel           | [`png`](view/laravel.png)        | [`svg`](print/laravel.svg)                                                    |
 | Marionette        | [`png`](view/marionette.png)     | [`svg`](print/marionette.svg)                                                 |
 | Meteor            | [`png`](view/meteor.png)         | [`svg`](print/meteor.svg)                                                     |

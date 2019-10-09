@@ -71,7 +71,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Python Full       | [`png`](view/python_full.png)    | [`eps`](print/python_full.eps)                                                |
 | Raspberry Pi      | [`png`](view/raspberry-pi.png)   | [`svg`](print/raspberry-pi.svg)                                               |
 | React             | [`png`](view/react-backgroundBlack.png) [`png`](view/react-backgroundWhite.png) | [`svg`](print/react.svg)       |
-| Ruby              |                                  | [`svg`](print/Ruby_logo.svg)                                                  |
+| Ruby              | [`png`](view/ruby.png)           | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |

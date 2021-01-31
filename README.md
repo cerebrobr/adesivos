@@ -47,6 +47,7 @@ Uma coleção de adesivos para o seu notebook. =]
 | Grunt             | [`png`](view/grunt.png)          | [`eps`](print/grunt-logo.eps)                                                 |
 | Gulp              | [`png`](view/gulp.png)           | [`svg`](print/gulp.svg)                                                       |
 | Handlebars        | [`png`](view/handlebars.png)     | [`svg`](print/handlebars.svg)                                                 |
+| Heroku            | [`png(V)`](view/heroku-vertical.png) [`png(H)`](view/heroku-horizontal.png)| [`svg(V)`](print/heroku-vertical.svg) [`svg(H)`](print/heroku-horizontal.svg) |
 | HTML5             | [`png`](view/HTML5.png)          | [`svg`](print/HTML5_Logo.svg)                                                 |
 | Ionic Framework   | [`png`](view/ionic.png)          | [`svg`](print/ionic.svg)                                                      |
 | JavaScript        | [`png`](view/javascript.png)     | [`svg`](print/javascript.svg)                                                 |

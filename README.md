@@ -75,6 +75,8 @@ Uma coleção de adesivos para o seu notebook. =]
 | Ruby              | [`png`](view/ruby.png)           | [`svg`](print/Ruby_logo.svg)                                                  |
 | Rails             | [`png`](view/rails.png)          | [`svg`](print/rails.svg) [`eps`](print/rails.eps)                             |
 | Sinatra           | [`png`](view/sinatra.png)        | [`svg`](print/sinatra.svg)                                                    |
+| Tailwindcss       | [`png`](view/tailwindcss.png)    | [`svg`](print/tailwindcss.svg)                                                |
+| Tailwindcss Full  | [`png`](view/tailwindcss-full.png) | [`svg`](print/tailwindcss-full.svg)                                         |
 | Ubuntu            | [`png`](view/ubuntu.png)         | [`svg`](print/ubuntu.svg)                                                     |
 | WordPress         | [`png`](view/wordpress.png)      | [`svg`](print/wordpress.svg)                                                  |
 | WordPress Full    | [`png`](view/wordpressfull.png)  | [`svg`](print/wordpressfull.svg) [`ai`](print/wordpress.ai)                   |
